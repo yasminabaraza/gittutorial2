@@ -2,7 +2,7 @@
 
 - time (ahead/behind) and space (master/branch/stage/working directory/fetch)
 
-- it is a versoin control
+- it is a versoin manger
 
 - immutability
 
